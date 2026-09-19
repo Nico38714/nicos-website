@@ -1,1 +1,3 @@
 # nicos-website
+
+# This is my website, need to decide what api and stuff we are going to use, focus on backend
